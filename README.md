@@ -5,7 +5,7 @@
 - 📫 How to reach me ...--->
 __Leonardo Arnone__
 - Perito Informatico
-- Studente all'Università degli Studi di Perugia
+- Laureando all'Università degli Studi di Perugia
 - Iscritto al Corso di Laurea Informatica Triennale
 
 <!---
